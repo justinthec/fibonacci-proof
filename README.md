@@ -30,9 +30,9 @@ From this homogeneous equation we get the Characteristic Polynomial:
 
 Roots:
 
-`x = **(1 + root5)/2`** *(aka lowercase* **phi** *also known as the Golden Ratio)*
+**`x = (1 + root5)/2`** *(aka lowercase* **phi** *also known as the Golden Ratio)*
 
-`x = **(1 - root5)/2`** *(aka uppercase* **Phi** *the Golden Ratio Conjugate)*
+**`x = (1 - root5)/2`** *(aka uppercase* **Phi** *the Golden Ratio Conjugate)*
 
 ---
 From these roots We can now obtain a general formula for the solution to the recurrence relation `a{n}` with unknowns **`A`** and **`B`**.
